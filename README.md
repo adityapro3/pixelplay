@@ -1,6 +1,6 @@
 # pixelplay
 
-# # This is the codebase of the codes and programs which are used in pixel play competition by me.
+## This is the codebase of the codes and programs which are used in pixel play competition by me.
 
 ## Final Notebook
 The final notebook is the represenetation of all major tasks which are used to train and create the submission file.
