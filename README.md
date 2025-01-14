@@ -1,4 +1,4 @@
-# pixelplay
+# Pixel-Play '25 repo
 
 ## This is the codebase of the codes and programs which are used in pixel play competition by me.
 
